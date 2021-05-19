@@ -1,0 +1,29 @@
+{
+    "name": "anaer-note-pack",
+    "displayName": "anaer note pack",
+    "description": "",
+    "publisher": "anaer",
+    "version": "0.0.1",
+    "repository": {
+        "url":"https://github.com/anaer/vscode-note-pack.git"
+    },
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "docsmsft.docs-markdown",
+        "gracie-wdy.eyes-love",
+        "sleistner.vscode-fileutils",
+        "eamodio.gitlens",
+        "kisstkondoros.vscode-gutter-preview",
+        "yzhang.markdown-all-in-one",
+        "simvet.markdown-tags",
+        "mushan.vscode-paste-image",
+        "humao.rest-client",
+        "vscodevim.vim",
+        "eighthundreds.vscode-drawio"
+    ]
+}
