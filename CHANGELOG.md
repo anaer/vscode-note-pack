@@ -4,6 +4,11 @@ All notable changes to the "anaer-note-pack" extension pack will be documented i
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+
+## [0.0.2]
+
+- 修改名称
+
+## [0.0.1]
 
 - Initial release

@@ -1,9 +1,9 @@
 {
-    "name": "anaer-note-pack",
-    "displayName": "anaer note pack",
+    "name": "vscode-note-pack",
+    "displayName": "vscode note pack",
     "description": "",
     "publisher": "anaer",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "repository": {
         "url":"https://github.com/anaer/vscode-note-pack.git"
     },
