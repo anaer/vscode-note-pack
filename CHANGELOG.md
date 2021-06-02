@@ -1,14 +1,13 @@
 # Change Log
 
-All notable changes to the "anaer-note-pack" extension pack will be documented in this file.
+## 0.0.4
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-
-## [0.0.2]
+- 删除docs-markdown
+- 修改README.md
+## 0.0.2
 
 - 修改名称
 
-## [0.0.1]
+## 0.0.1
 
 - Initial release
