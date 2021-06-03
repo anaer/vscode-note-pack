@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.0.5 
+
+- 添加icon图标
+
 ## 0.0.4
 
 - 删除docs-markdown

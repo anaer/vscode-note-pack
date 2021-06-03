@@ -3,9 +3,10 @@
     "displayName": "vscode note pack",
     "description": "vscode笔记扩展包",
     "publisher": "anaer",
-    "version": "0.0.4",
+    "version": "0.0.5",
+    "icon": "icon.png",
     "repository": {
-        "url":"https://github.com/anaer/vscode-note-pack.git"
+        "url": "https://github.com/anaer/vscode-note-pack.git"
     },
     "engines": {
         "vscode": "^1.56.0"
@@ -13,7 +14,7 @@
     "categories": [
         "Extension Packs"
     ],
-    "extensionPack": [ 
+    "extensionPack": [
         "alefragnani.bookmarks",
         "gracie-wdy.eyes-love",
         "sleistner.vscode-fileutils",
