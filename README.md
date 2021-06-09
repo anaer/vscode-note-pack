@@ -2,6 +2,9 @@
 
 笔记扩展包
 
+1. 使用markdown记录笔记
+2. 使用rest client测试接口
+3. 使用drawio画图
 
 ## 编辑相关
 

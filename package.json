@@ -3,7 +3,7 @@
     "displayName": "vscode note pack",
     "description": "vscode笔记扩展包",
     "publisher": "anaer",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "icon": "icon.png",
     "repository": {
         "url": "https://github.com/anaer/vscode-note-pack.git"
