@@ -18,6 +18,8 @@
     - markdown标签
 - [📦 Paste Image](https://marketplace.visualstudio.com/items?itemName=mushan.vscode-paste-image)
     - markdown贴图
+- [📦 Markdown Link Updater](https://marketplace.visualstudio.com/items?itemName=mathiassoeholm.markdown-link-updater)
+    - 调整文档路径时, 自动更新图片链接, 很方便
 
 ## 编程相关
 - [📦 REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)

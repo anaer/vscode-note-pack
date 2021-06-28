@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.0.7
+
+- 添加插件mathiassoeholm.markdown-link-updater
+
 ## 0.0.6
 
 - 修改icon图标
