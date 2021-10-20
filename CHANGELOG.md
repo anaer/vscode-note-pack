@@ -1,5 +1,10 @@
 # Change Log
 
+## 0.0.8(20211020)
+
+- 添加插件EditorConfig for VS Code
+- 添加插件GitHub Copilot
+
 ## 0.0.7
 
 - 添加插件mathiassoeholm.markdown-link-updater

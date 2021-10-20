@@ -38,3 +38,7 @@
     - 文件工具, 主要使用文件重命名功能
 - [📦 eyes-love](https://marketplace.visualstudio.com/items?itemName=gracie-wdy.eyes-love)
     - 护眼主题
+- [📦 EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+    - 统一配置
+- [📦 GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
+    - 自动补全
