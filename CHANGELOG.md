@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.1.0(20211028)
+
+- 提取一些公共扩展为base pack
+
 ## 0.0.8(20211020)
 
 - 添加插件EditorConfig for VS Code
