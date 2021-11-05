@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.1.1(20211105)
+
+- 调整rest-client到base pack
+
 ## 0.1.0(20211028)
 
 - 提取一些公共扩展为base pack

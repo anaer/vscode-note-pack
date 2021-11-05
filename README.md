@@ -18,8 +18,6 @@
     - 调整文档路径时, 自动更新图片链接, 很方便
 
 ## 编程相关
-- [📦 REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
-    - 类似postman, http接口请求
 - [📦 vscode-drawio](https://marketplace.visualstudio.com/items?itemName=eightHundreds.vscode-drawio)
     - 集成drawio 画流程图
 
