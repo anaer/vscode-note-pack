@@ -3,7 +3,7 @@
     "displayName": "vscode note pack",
     "description": "vscode笔记扩展包",
     "publisher": "anaer",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "icon": "icon.png",
     "repository": {
         "url": "https://github.com/anaer/vscode-note-pack.git"
@@ -21,6 +21,7 @@
         "simvet.markdown-tags",
         "mushan.vscode-paste-image",
         "eighthundreds.vscode-drawio",
-        "rangav.vscode-thunder-client"
+        "rangav.vscode-thunder-client",
+        "zardoy.terminal-code-runner"
     ]
 }

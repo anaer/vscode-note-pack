@@ -30,3 +30,5 @@
 
 - [📦 VSCode Base Pack](https://marketplace.visualstudio.com/items?itemName=anaer.vscode-base-pack)
   - 包含常用的一些扩展
+- [📦 Terminal Code Runner](https://marketplace.visualstudio.com/items?itemName=zardoy.terminal-code-runner)
+  - 终端代码执行

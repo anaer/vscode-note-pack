@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.1.3(20220524)
+
+- 添加 Terminal Code Runner
+
 ## 0.1.2(20220505)
 
 - 添加 Thunder client
