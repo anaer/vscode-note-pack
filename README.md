@@ -10,8 +10,6 @@
 
 - [📦 Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
   - Markdown 工具
-- [📦 markdown-tags](https://marketplace.visualstudio.com/items?itemName=SimVet.markdown-tags)
-  - markdown 标签
 - [📦 Paste Image](https://marketplace.visualstudio.com/items?itemName=mushan.vscode-paste-image)
   - markdown 贴图
 - [📦 Markdown Link Updater](https://marketplace.visualstudio.com/items?itemName=mathiassoeholm.markdown-link-updater)
@@ -30,5 +28,10 @@
 
 - [📦 VSCode Base Pack](https://marketplace.visualstudio.com/items?itemName=anaer.vscode-base-pack)
   - 包含常用的一些扩展
+
+## 用的较少先移除
+
+- [📦 markdown-tags](https://marketplace.visualstudio.com/items?itemName=SimVet.markdown-tags)
+  - markdown 标签
 - [📦 Terminal Code Runner](https://marketplace.visualstudio.com/items?itemName=zardoy.terminal-code-runner)
   - 终端代码执行
