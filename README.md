@@ -3,7 +3,7 @@
 笔记扩展包
 
 1. 使用 markdown 记录笔记
-2. 使用 Thunder Client 测试接口
+2. 使用 Rest Client 测试接口
 3. 使用 drawio 画图
 
 ## 编辑相关
@@ -21,8 +21,8 @@
 
   - 集成 drawio 画流程图
 
-- [<img src="https://rangav.gallery.vsassets.io/_apis/public/gallery/publisher/rangav/extension/vscode-thunder-client/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
-  - 类似 PostMan
+- [<img src="https://humao.gallery.vsassets.io/_apis/public/gallery/publisher/humao/extension/rest-client/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Rest Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+  - rest api测试工具, 替换Thunder Client, 也可以使用[Fetch Client](https://marketplace.visualstudio.com/items?itemName=GanesanChandran.fetch-client)
 
 ## 其他
 
@@ -36,6 +36,8 @@
   - markdown 标签
 - [<img src="https://zardoy.gallery.vsassets.io/_apis/public/gallery/publisher/zardoy/extension/terminal-code-runner/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Terminal Code Runner](https://marketplace.visualstudio.com/items?itemName=zardoy.terminal-code-runner)
   - 终端代码执行
+- [<img src="https://rangav.gallery.vsassets.io/_apis/public/gallery/publisher/rangav/extension/vscode-thunder-client/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
+  - 类似 PostMan, 大于 v2.6.2 版本的Git Sync为付费订阅功能
 
 </details>
 

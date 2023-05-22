@@ -1,9 +1,9 @@
 {
     "name": "vscode-note-pack",
-    "displayName": "vscode note pack",
+    "displayName": "VSCode Note Pack",
     "description": "vscode笔记扩展包",
     "publisher": "anaer",
-    "version": "0.1.4",
+    "version": "0.1.5",
     "icon": "icon.png",
     "repository": {
         "url": "https://github.com/anaer/vscode-note-pack.git"
@@ -21,6 +21,6 @@
         "mathiassoeholm.markdown-link-updater",
         "mushan.vscode-paste-image",
         "eighthundreds.vscode-drawio",
-        "rangav.vscode-thunder-client"
+        "humao.rest-client"
     ]
 }
