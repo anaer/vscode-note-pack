@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.1.6(20230630)
+
+- 添加Codeium
+
 ## 0.1.5(20230522)
 
 - 替换rest client

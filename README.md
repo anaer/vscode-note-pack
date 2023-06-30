@@ -14,6 +14,8 @@
   - markdown 贴图
 - [<img src="https://mathiassoeholm.gallery.vsassets.io/_apis/public/gallery/publisher/mathiassoeholm/extension/markdown-link-updater/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Markdown Link Updater](https://marketplace.visualstudio.com/items?itemName=mathiassoeholm.markdown-link-updater)
   - 调整文档路径时, 自动更新图片链接, 很方便
+- [<img src="https://VisualStudioExptTeam.gallery.vsassets.io/_apis/public/gallery/publisher/codeium/extension/codeium/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Codeiume](https://marketplace.visualstudio.com/items?itemName=codeium.codeium)
+  - 代码补全
 
 ## 编程相关
 
@@ -41,5 +43,4 @@
 
 </details>
 
-[说明]: 以下为引用变量
 [扩展图标]: https://www.iconfinder.com/icons/1519778/book_colorful_notebook_office_school_icon
