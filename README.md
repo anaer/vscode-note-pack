@@ -5,6 +5,7 @@
 1. 使用 markdown 记录笔记
 2. 使用 Rest Client 测试接口
 3. 使用 drawio 画图
+4. 使用 GitDoc 自动同步Git
 
 ## 编辑相关
 
@@ -16,6 +17,11 @@
   - 调整文档路径时, 自动更新图片链接, 很方便
 - [<img src="https://VisualStudioExptTeam.gallery.vsassets.io/_apis/public/gallery/publisher/codeium/extension/codeium/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Codeiume](https://marketplace.visualstudio.com/items?itemName=codeium.codeium)
   - 代码补全
+- [<img src="https://vsls-contrib.gallery.vsassets.io/_apis/public/gallery/publisher/vsls-contrib/extension/gitdoc/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> GitDoc](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gitdoc)
+  - 自动同步Git, 免除手动提交操作
+- [<img src="https://anaer.gallery.vsassets.io/_apis/public/gallery/publisher/anaer/extension/vscode-auto-header/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Auto Header](https://marketplace.visualstudio.com/items?itemName=anaer.vscode-auto-header)
+  - 自动更新文件头
+
 
 ## 编程相关
 

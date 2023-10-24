@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.1.7(20231024)
+
+- 添加GitDoc, Auto Header
+
 ## 0.1.6(20230630)
 
 - 添加Codeium
