@@ -1,5 +1,10 @@
 # Change Log
 
+## 0.1.8(20231024)
+
+- 使用Foam替代markdown-link-updater
+
+
 ## 0.1.7(20231024)
 
 - 添加GitDoc, Auto Header

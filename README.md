@@ -13,8 +13,8 @@
   - Markdown 工具
 - [<img src="https://mushan.gallery.vsassets.io/_apis/public/gallery/publisher/mushan/extension/vscode-paste-image/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Paste Image](https://marketplace.visualstudio.com/items?itemName=mushan.vscode-paste-image)
   - markdown 贴图
-- [<img src="https://mathiassoeholm.gallery.vsassets.io/_apis/public/gallery/publisher/mathiassoeholm/extension/markdown-link-updater/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Markdown Link Updater](https://marketplace.visualstudio.com/items?itemName=mathiassoeholm.markdown-link-updater)
-  - 调整文档路径时, 自动更新图片链接, 很方便
+- [<img src="https://foam.gallery.vsassets.io/_apis/public/gallery/publisher/foam/extension/foam-vscode/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Foam](https://marketplace.visualstudio.com/items?itemName=foam.foam-vscode)
+  - 笔记工具
 - [<img src="https://VisualStudioExptTeam.gallery.vsassets.io/_apis/public/gallery/publisher/codeium/extension/codeium/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Codeiume](https://marketplace.visualstudio.com/items?itemName=codeium.codeium)
   - 代码补全
 - [<img src="https://vsls-contrib.gallery.vsassets.io/_apis/public/gallery/publisher/vsls-contrib/extension/gitdoc/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> GitDoc](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gitdoc)
@@ -46,6 +46,8 @@
   - 终端代码执行
 - [<img src="https://rangav.gallery.vsassets.io/_apis/public/gallery/publisher/rangav/extension/vscode-thunder-client/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
   - 类似 PostMan, 大于 v2.6.2 版本的Git Sync为付费订阅功能
+- [<img src="https://mathiassoeholm.gallery.vsassets.io/_apis/public/gallery/publisher/mathiassoeholm/extension/markdown-link-updater/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Markdown Link Updater](https://marketplace.visualstudio.com/items?itemName=mathiassoeholm.markdown-link-updater)
+  - 调整文档路径时, 自动更新图片链接, 很方便
 
 </details>
 
