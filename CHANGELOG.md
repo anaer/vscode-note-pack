@@ -1,9 +1,13 @@
 # Change Log
 
+## 0.1.9(20240115)
+
+- 使用httpyac替代rest client
+- 使用markdown-memo替代Foam
+
 ## 0.1.8(20231024)
 
 - 使用Foam替代markdown-link-updater
-
 
 ## 0.1.7(20231024)
 

@@ -13,24 +13,23 @@
   - Markdown 工具
 - [<img src="https://mushan.gallery.vsassets.io/_apis/public/gallery/publisher/mushan/extension/vscode-paste-image/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Paste Image](https://marketplace.visualstudio.com/items?itemName=mushan.vscode-paste-image)
   - markdown 贴图
-- [<img src="https://foam.gallery.vsassets.io/_apis/public/gallery/publisher/foam/extension/foam-vscode/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Foam](https://marketplace.visualstudio.com/items?itemName=foam.foam-vscode)
-  - 笔记工具
 - [<img src="https://VisualStudioExptTeam.gallery.vsassets.io/_apis/public/gallery/publisher/codeium/extension/codeium/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Codeiume](https://marketplace.visualstudio.com/items?itemName=codeium.codeium)
   - 代码补全
 - [<img src="https://vsls-contrib.gallery.vsassets.io/_apis/public/gallery/publisher/vsls-contrib/extension/gitdoc/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> GitDoc](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gitdoc)
   - 自动同步Git, 免除手动提交操作
 - [<img src="https://anaer.gallery.vsassets.io/_apis/public/gallery/publisher/anaer/extension/vscode-auto-header/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Auto Header](https://marketplace.visualstudio.com/items?itemName=anaer.vscode-auto-header)
   - 自动更新文件头
-
+- [<img src="https://svsool.gallery.vsassets.io/_apis/public/gallery/publisher/svsool/extension/markdown-memo/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> markdown-memo](https://marketplace.visualstudio.com/items?itemName=svsool.markdown-memo)
+  - 替换foam, 支持wikilink
 
 ## 编程相关
 
 - [<img src="https://eightHundreds.gallery.vsassets.io/_apis/public/gallery/publisher/eightHundreds/extension/vscode-drawio/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> vscode-drawio](https://marketplace.visualstudio.com/items?itemName=eightHundreds.vscode-drawio)
 
   - 集成 drawio 画流程图
+- [<img src="https://anweber.gallery.vsassets.io/_apis/public/gallery/publisher/anweber/extension/vscode-httpyac/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> vscode-httpyac](https://marketplace.visualstudio.com/items?itemName=anweber.vscode-httpyac)
+  - 兼容rest client, 使用上方便点
 
-- [<img src="https://humao.gallery.vsassets.io/_apis/public/gallery/publisher/humao/extension/rest-client/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Rest Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
-  - rest api测试工具, 替换Thunder Client, 也可以使用[Fetch Client](https://marketplace.visualstudio.com/items?itemName=GanesanChandran.fetch-client)
 
 ## 其他
 
@@ -48,6 +47,10 @@
   - 类似 PostMan, 大于 v2.6.2 版本的Git Sync为付费订阅功能
 - [<img src="https://mathiassoeholm.gallery.vsassets.io/_apis/public/gallery/publisher/mathiassoeholm/extension/markdown-link-updater/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Markdown Link Updater](https://marketplace.visualstudio.com/items?itemName=mathiassoeholm.markdown-link-updater)
   - 调整文档路径时, 自动更新图片链接, 很方便
+- [<img src="https://foam.gallery.vsassets.io/_apis/public/gallery/publisher/foam/extension/foam-vscode/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Foam](https://marketplace.visualstudio.com/items?itemName=foam.foam-vscode)
+  - 笔记工具
+- [<img src="https://humao.gallery.vsassets.io/_apis/public/gallery/publisher/humao/extension/rest-client/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Rest Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+  - rest api测试工具, 替换Thunder Client, 也可以使用[Fetch Client](https://marketplace.visualstudio.com/items?itemName=GanesanChandran.fetch-client)
 
 </details>
 
