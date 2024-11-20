@@ -4,8 +4,6 @@
 
 1. 使用 markdown 记录笔记
 2. 使用 Rest Client 测试接口
-3. 使用 drawio 画图
-4. 使用 GitDoc 自动同步Git
 
 ## 编辑相关
 
@@ -15,13 +13,9 @@
   - markdown 贴图
 - [<img src="https://anaer.gallery.vsassets.io/_apis/public/gallery/publisher/anaer/extension/vscode-auto-header/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Auto Header](https://marketplace.visualstudio.com/items?itemName=anaer.vscode-auto-header)
   - 自动更新文件头
-- [<img src="https://foam.gallery.vsassets.io/_apis/public/gallery/publisher/foam/extension/foam-vscode/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Foam](https://marketplace.visualstudio.com/items?itemName=foam.foam-vscode)
-  - 笔记工具
 
 ## 编程相关
 
-- [<img src="https://eightHundreds.gallery.vsassets.io/_apis/public/gallery/publisher/eightHundreds/extension/vscode-drawio/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> vscode-drawio](https://marketplace.visualstudio.com/items?itemName=eightHundreds.vscode-drawio)
-  - 集成 drawio 画流程图
 - [<img src="https://humao.gallery.vsassets.io/_apis/public/gallery/publisher/humao/extension/rest-client/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Rest Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
   - rest api测试工具
 
@@ -49,6 +43,10 @@
   - 兼容rest client, 舒适度差点
 - [<img src="https://VisualStudioExptTeam.gallery.vsassets.io/_apis/public/gallery/publisher/codeium/extension/codeium/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Codeiume](https://marketplace.visualstudio.com/items?itemName=codeium.codeium)
   - 代码补全, 新版体验好点, 直接放base包中
+- [<img src="https://foam.gallery.vsassets.io/_apis/public/gallery/publisher/foam/extension/foam-vscode/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Foam](https://marketplace.visualstudio.com/items?itemName=foam.foam-vscode)
+  - 笔记工具
+- [<img src="https://eightHundreds.gallery.vsassets.io/_apis/public/gallery/publisher/eightHundreds/extension/vscode-drawio/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> vscode-drawio](https://marketplace.visualstudio.com/items?itemName=eightHundreds.vscode-drawio)
+  - 集成 drawio 画流程图
 
 </details>
 

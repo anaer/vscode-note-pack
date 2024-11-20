@@ -1,8 +1,8 @@
 {
     "name": "vscode-note-pack",
-    "displayName": "VSCode Note Pack",
+    "displayName": "Note Pack",
     "description": "VSCode笔记扩展包",
-    "version": "0.2.0",
+    "version": "24.1120.1335",
     "publisher": "anaer",
     "icon": "icon.png",
     "repository": {
@@ -19,9 +19,7 @@
         "anaer.vscode-base-pack",
         "yzhang.markdown-all-in-one",
         "mushan.vscode-paste-image",
-        "eighthundreds.vscode-drawio",
         "anaer.vscode-auto-header",
-        "humao.rest-client",
-        "foam.foam-vscode"
+        "humao.rest-client"
     ]
 }
