@@ -2,7 +2,7 @@
     "name": "vscode-note-pack",
     "displayName": "Note Pack",
     "description": "VSCode笔记扩展包",
-    "version": "24.1120.1335",
+    "version": "24.1126.1601",
     "publisher": "anaer",
     "icon": "icon.png",
     "repository": {
@@ -20,6 +20,9 @@
         "yzhang.markdown-all-in-one",
         "mushan.vscode-paste-image",
         "anaer.vscode-auto-header",
-        "humao.rest-client"
+        "humao.rest-client",
+        "foam.foam-vscode",
+        "dyno-nguyen.vscode-dynofileutils",
+        "ionutvmi.path-autocomplete"
     ]
 }

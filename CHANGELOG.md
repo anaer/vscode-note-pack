@@ -1,5 +1,10 @@
 # Change Log
 
+## 24.1126.1601
+
+1. 添加dynofileutils, path autocomplete
+2. 调整readme 取消图标展示, 方便编辑
+
 ## 24.1120.1337
 
 - 注释较少使用的扩展
